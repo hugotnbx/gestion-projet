@@ -1,6 +1,6 @@
 
 
-def div(a, b):
+def div(b, c):
     """
     a and b must be float
     Compute the quotient of two numbers
