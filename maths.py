@@ -10,9 +10,9 @@ def div(b, c):
     >>> div(3, -1)
     -3.0
     """
-    if b == 0:
+    if c == 0:
         raise DivisionByZeroError()
-    return a / b
+    return b / c
 
 def mumul(a, b):
     """
